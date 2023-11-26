@@ -6,7 +6,7 @@ ChatGPT is a Telegram bot that utilizes OpenAI's GPT-4 language model to generat
 
 # Bot
 The bot offline
-<h3 align="left">Telegram:</h3> <a href="https://t.me/ChatGPTtesting_robot"><img src="https://img.shields.io/website?color=9400d3&down_message=Tr3ble_AI&label=Telegram&logo=telegram&style=for-the-badge&up_message=ChatGPTtesting_robot&url=https%3A%2F%2Ft.me%2https://t.me/ChatGPTtesting_robot"></a>
+<h3 align="left">Telegram:</h3> <a href="https://t.me/partnernomer1_bot"><img src="https://img.shields.io/website?color=9400d3&down_message=Tr3ble_AI&label=Telegram&logo=telegram&style=for-the-badge&up_message=ChatGPTtesting_robot&url=https%3A%2F%2Ft.me%2[https://t.me/ChatGPTtesting_robot](https://t.me/partnernomer1_bot)"></a>
 
 # Installation
 To use the ChatGPT bot, you will need to have a Telegram account and an OpenAI API key. You can obtain an API key by signing up for OpenAI's GPT-4 program.
